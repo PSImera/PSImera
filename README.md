@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PSImera
+- 👀 I’m interested in DataSciense
+- 🌱 I’m currently learning DataSciense & Python
+- 💞️ I’m looking to collaborate on some computer vision projects
