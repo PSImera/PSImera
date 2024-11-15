@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PSImera
-- 👀 I’m interested in DataSciense
-- 🌱 I’m currently learning DataSciense & Python
-- 💞️ I’m looking to collaborate on some computer vision projects
+- 👋 Hi, I'm Vlad, focusing on Data Science and Python.
+- 🎓 Recently completed a comprehensive Data Science course.
+- 🛠 Building my skills through hands-on projects, with a particular interest in computer vision and practical data challenges.
+- 🤝 Open to collaborative projects where I can contribute effectively and deepen my expertise.
